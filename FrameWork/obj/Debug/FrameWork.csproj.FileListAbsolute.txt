@@ -1,0 +1,5 @@
+C:\Users\veesamba\Desktop\FrameWork\FrameWork\bin\FrameWork.dll
+C:\Users\veesamba\Desktop\FrameWork\FrameWork\bin\FrameWork.pdb
+C:\Users\veesamba\Desktop\FrameWork\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\veesamba\Desktop\FrameWork\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\veesamba\Desktop\FrameWork\FrameWork\obj\Debug\FrameWork.pdb
